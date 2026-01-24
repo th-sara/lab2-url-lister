@@ -28,19 +28,19 @@ The Combiner would apply the "greater than 5" filter too early, losing valid URL
 
 ### 2 Worker Cluster
 
-**Execution time:** [Fill in after running on Dataproc]
+**Execution time:** [TBD]
 
 **Cluster configuration:** 1 master and 2 workers
 
 ### 4 Worker Cluster
 
-**Execution time:** [Fill in after running on Dataproc]
+**Execution time:** [TBD]
 
 **Cluster configuration:** 1 master and 4 workers
 
 ### Analysis
 
-[Fill in discussion on speedup, overhead, and whether doubling workers halved execution time]
+[TBD]
 
 ## Output
 
