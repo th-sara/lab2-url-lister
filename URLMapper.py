@@ -2,7 +2,7 @@
 import sys
 import re
 
-# Pattern to find href="something"
+# Pattern to find href="whatever"
 url_pattern = re.compile(r'href="([^"]*)"')
 
 for line in sys.stdin:
