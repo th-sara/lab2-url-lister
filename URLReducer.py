@@ -21,6 +21,6 @@ for line in sys.stdin:
         current_url = url
         current_count = count
 
-# Don't forget the last URL!
+
 if current_url and current_count > 5:
     print(f"{current_url}\t{current_count}")
